@@ -16,7 +16,14 @@ git clone https://github.com/MusiurAlam/dnd.git
 - Then run 
 
 ```
-yarn install or npm install
+yarn install or, npm install
+
+```
+
+To run the program you have run again
+
+```
+yarn start or, npm start
 
 ```
 
